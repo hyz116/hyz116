@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyz116
-- 👀 I’m interested in Java, Cloud Native
-- 🌱 I’m currently learning Cloud Native
+- 👀 I’m interested in AI Agentic, Java, Cloud Native
+- 🌱 I’m currently learning AI, Cloud Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
